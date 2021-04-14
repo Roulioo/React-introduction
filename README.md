@@ -2,6 +2,13 @@
 
 Several exercises to practise ReactJS.
 
+# Technologies
+
+- ReactJS
+- JSX
+- HTML
+- CSS
+
 # How to test
 
 1. Go to current folder of project in terminal
