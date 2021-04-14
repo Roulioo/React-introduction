@@ -5467,7 +5467,7 @@
   "resolved" "https://registry.npmjs.org/ignore/-/ignore-4.0.6.tgz"
   "version" "4.0.6"
 
-"immer@1.10.0":
+"immer@^1.10.0", "immer@1.10.0":
   "integrity" "sha512-O3sR1/opvCDGLEVcvrGTMtLac8GJ5IwZC4puPrLuRj3l7ICKvkmA0vGuU9OW8mV9WIBRnaxp5GJh9IEAaNOoYg=="
   "resolved" "https://registry.npmjs.org/immer/-/immer-1.10.0.tgz"
   "version" "1.10.0"
@@ -7261,7 +7261,7 @@
   "resolved" "https://registry.npmjs.org/node-modules-regexp/-/node-modules-regexp-1.0.0.tgz"
   "version" "1.0.0"
 
-"node-notifier@^5.4.2":
+"node-notifier@^5.4.2", "node-notifier@^5.4.3":
   "integrity" "sha512-M4UBGcs4jeOK9CjTsYwkvH6/MzuUmGCyTW+kCY7uO+1ZVr0+FHGdPdIf5CCLqAaxnRrWidyoQlNkMIIVwbKB8Q=="
   "resolved" "https://registry.npmjs.org/node-notifier/-/node-notifier-5.4.3.tgz"
   "version" "5.4.3"
@@ -7385,7 +7385,7 @@
   "resolved" "https://registry.npmjs.org/object-keys/-/object-keys-1.1.1.tgz"
   "version" "1.1.1"
 
-"object-path@0.11.4":
+"object-path@^0.11.4", "object-path@0.11.4":
   "integrity" "sha1-NwrnUvvzfePqcKhhwju6iRVpGUk="
   "resolved" "https://registry.npmjs.org/object-path/-/object-path-0.11.4.tgz"
   "version" "0.11.4"
@@ -10003,7 +10003,7 @@
   dependencies:
     "figgy-pudding" "^3.5.1"
 
-"ssri@^7.0.0":
+"ssri@^7.0.0", "ssri@^7.1.0":
   "integrity" "sha512-77/WrDZUWocK0mvA5NTRQyveUf+wsrIc6vyrxpS8tVvYBcX215QbafrJR3KtkpskIzoFLqqNuuYQvxaMjXJ/0g=="
   "resolved" "https://registry.npmjs.org/ssri/-/ssri-7.1.0.tgz"
   "version" "7.1.0"
