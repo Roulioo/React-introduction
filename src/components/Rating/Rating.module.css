@@ -1,0 +1,12 @@
+.rating {
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.gray {
+    color: gray;
+}
+
+.orange {
+    color: orange;
+}
